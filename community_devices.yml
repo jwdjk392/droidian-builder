@@ -1,0 +1,17 @@
+# This file has been generated automatically by droidian-new-device
+
+# lenovo tb320fc
+lenovo_tb320fc:
+  type: image
+  arch: arm64
+  edition: phosh
+  variant: phone
+  apilevel: 32
+  use_internal_repository: true
+
+  packages:
+    - adaptation-lenovo-tb320fc
+    - adaptation-lenovo-tb320fc-configs
+    - linux-image-lenovo-tb320fc
+    - linux-bootimage-lenovo-tb320fc
+    - linux-headers-lenovo-tb320fc

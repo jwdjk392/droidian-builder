@@ -1,0 +1,2 @@
+# You can add here your custom apt repositories
+deb [signed-by=/usr/share/keyrings/tb320fc.gpg] https://jwdjk392.github.io/droidian-lenovo-tb320fc-repo stable main
